@@ -1,4 +1,4 @@
-# GithubActionsTutorial
+# GithubActionsNodeJS
 
 Basic Github Actions Workflow for running mocha unit tests. 
 
